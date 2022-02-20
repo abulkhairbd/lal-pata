@@ -1,0 +1,30 @@
+body{
+  margin:0;
+}
+
+.width{
+  width:50%;
+  float: left;
+  color:red;
+}
+
+.dhaka{
+  color:gold;
+  font-size:50px;
+
+}
+
+.top-banner{
+  background-image:url(https://image.shutterstock.com/image-photo/field-cosmos-flower-260nw-1011699703.jpg);
+}
+
+img{
+  width:500px;
+  margin-left:0px;
+  height:500px;
+
+}
+
+a{
+  font-size:50px;
+}
